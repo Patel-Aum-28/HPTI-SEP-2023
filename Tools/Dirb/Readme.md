@@ -219,4 +219,4 @@ dirb http://example.com /directory -t
 ![-t](Image/9_-t.png)
 ![-t-2](Image/9_2_-t.png)
 
-Here you see file name starts with .(dot), so this option used in this scenario.
+Here you can see that directory name starts with ~(tiled) file name starts with .(dot), so this option used in this type of scenario.
